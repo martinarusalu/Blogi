@@ -1,0 +1,5 @@
+C:\Users\Martin\Desktop\Blogimootor\Blogimootor\bin\Blogimootor.dll
+C:\Users\Martin\Desktop\Blogimootor\Blogimootor\bin\Blogimootor.pdb
+C:\Users\Martin\Desktop\Blogimootor\Blogimootor\obj\Debug\Blogimootor.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Blogimootor\Blogimootor\obj\Debug\Blogimootor.dll
+C:\Users\Martin\Desktop\Blogimootor\Blogimootor\obj\Debug\Blogimootor.pdb
